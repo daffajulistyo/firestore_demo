@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479643940354",
+    "project_id": "firestore-demo-c56c0",
+    "storage_bucket": "firestore-demo-c56c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479643940354:android:5de7e8e7f72ae4ca44d91b",
+        "android_client_info": {
+          "package_name": "com.daffajulistyo.firestore_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479643940354-0scpq2ea7ibs3s46ke58g64vchif9s4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eSe_dsap_97iX4W-eQhGN-2krqEVDrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479643940354-0scpq2ea7ibs3s46ke58g64vchif9s4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
